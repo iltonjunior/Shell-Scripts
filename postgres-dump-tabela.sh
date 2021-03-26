@@ -40,7 +40,6 @@ echo -e "Insira o Nome de Usuário que deseja utilizar \nUser: "
 read USUARIO
 echo ""
 
-
 echo "---------------------------------------------------------------------------------"
 echo "O seguinte comando será executado, coloque a senha do usuário quando solicitado!"
 echo "---------------------------------------------------------------------------------"
